@@ -23,3 +23,5 @@ github_username:  SeanTankGarvey
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
