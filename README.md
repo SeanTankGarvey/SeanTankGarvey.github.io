@@ -11,7 +11,7 @@ Please continue to share/link my site on your own website(s)'s!
 This project was made with Jekyll (a Ruby Gem) and GitHub.
 The author of this document is Sean Tank Garvey.
 The url of the/my website is seantankgarvey.com
-The url of the/my (web)blog is seantankgarvey.com/blog
+The url of the/my (web)blog is the same.
 
 This file is my first ReadMe File that I have ever created.
 Thank you for your patience and understanding as I develop. 
