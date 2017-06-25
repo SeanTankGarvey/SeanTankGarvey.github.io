@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "My Site Description!"
 date:   2017-06-24 23:08
 categories: jekyll update
