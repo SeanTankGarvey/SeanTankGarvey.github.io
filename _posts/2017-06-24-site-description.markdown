@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "My Site Description!"
-date: 2017-06-24 23:10
+title: My Site Description!
+date: 2017-06-24 23:11
 categories: jekyll update
 ---
 As I Journey From Total Beginner With Zero Experience To My End Goal of Being A Programmer/Coder And Being, TRULY, A WEBMASTER,
