@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Website Description!
+title: my site description
 date: 2017-06-25 01:30
 categories: jekyll update
 ---
