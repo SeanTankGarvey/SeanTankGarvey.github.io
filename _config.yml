@@ -16,7 +16,7 @@ description: > # this means to ignore newlines until "baseurl:"
 #  The Plan: Learn How To- Create Sites in HTML, Test Webpages(.html files) Within Browsers for Errors, Design What I Want Pages To Look Like, 
 #  Style Sites in CSS to Match My/Others' Design Wants, Code in HTML5 (tags) instead of standard HTML, Program Webpages in JavaScript, 
 #  Make Responsive Websites (Designs) Using BootStrap, Perfect Website SEO (Search Engine Optimization) = ultimately, MASTER WEBSITE DEVELOPMENT. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.seantankgarvey.com" # the base hostname & protocol for your site
 twitter_username: SeanTankGarvey
 github_username:  SeanTankGarvey
