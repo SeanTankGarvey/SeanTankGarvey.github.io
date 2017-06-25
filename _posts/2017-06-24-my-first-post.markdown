@@ -1,9 +1,7 @@
----
 layout: default
 title: my first post
 date: 2017-06-24
 categories: jekyll update
----
 
 
 Welcome! My name is Sean "Tank" Garvey. 
