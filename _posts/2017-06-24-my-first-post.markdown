@@ -1,7 +1,7 @@
 ---
 layout: default
 title: my first post
-date: 2017-06-25
+date: 2017-06-24
 categories: jekyll update
 ---
 
