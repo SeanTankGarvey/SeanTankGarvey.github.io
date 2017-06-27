@@ -2,7 +2,7 @@
 layout: default
 title: Created Two Functions On Repl in Python!
 date: 2017-06-27 17:10
-categories: blog
+categories: jekyll update
 ---
 
 Hi Everyone!
