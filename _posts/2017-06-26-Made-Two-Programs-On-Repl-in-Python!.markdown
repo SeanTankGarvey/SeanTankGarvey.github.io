@@ -1,9 +1,8 @@
----
 layout: default
 title: Made Two Programs On Repl in Python!
 date: 2017-06-26
 categories: jekyll update
----
+
 
 Hello Everyone!
 
